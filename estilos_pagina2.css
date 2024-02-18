@@ -24,3 +24,10 @@ h5 {
     width: 75%;
     padding: 10px;
   }
+
+.custom-image-logo {
+    width: 50%;
+    max-width: 165px;
+    display: block;
+    margin: 10px
+}

@@ -37,3 +37,10 @@ h5 {
 .nav-item a:last-child {
     border-right: none;
 }
+
+.custom-image-logo {
+    width: 50%;
+    max-width: 165px;
+    display: block;
+    margin: 10px
+}
